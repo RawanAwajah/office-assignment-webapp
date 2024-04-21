@@ -35,9 +35,9 @@ const OfficeAssignmentPage = () => {
                 <label htmlFor="department" className="block text-sm font-medium text-gray-700">Department</label>
                 <select id="department" name="department" className="mt-1 block w-full rounded-md border border-black shadow-sm focus:ring focus:ring-opacity-50">
                   <option>Choose...</option>
-                  <option>Human Resources</option>
-                  <option>IT</option>
-                  <option>Marketing</option>
+                  <option>Software Engineering</option>
+                  <option>Industrial Engineering</option>
+                  <option>Biomedical Engineering</option>
                 </select>
               </div>
               <div>
